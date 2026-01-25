@@ -1,5 +1,6 @@
 1- Debe hacer el scrip calculadora ejecutable
-sudo child +x calculadora
+sudo chmod +x calculadora
+
 2- Debe mover/copiar el scrip calculadora a usr/bin
 sudo cp calculadora /usr/bin/
 
