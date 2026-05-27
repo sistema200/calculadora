@@ -9,3 +9,4 @@ sudo mv calculadora.desktop /usr/share/applications
 #
 sudo mkdir -p /usr/share/calculadora
 sudo mv calculadora.png /usr/share/calculadora/
+sudo rm -rf install.sh instruciones.txt
