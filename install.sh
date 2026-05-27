@@ -9,4 +9,10 @@ sudo mv calculadora.desktop /usr/share/applications
 #
 sudo mkdir -p /usr/share/calculadora
 sudo mv calculadora.png /usr/share/calculadora/
+touch desinstalador.sh
+echo  "
+#!/bin/bash
+sudo rm -rf /usr/bin/calculadora /usr/share/applications/calculadora.desktop /usr/share/calculadora
+"> desinstalador.sh
+
 sudo rm -rf install.sh instruciones.txt
