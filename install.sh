@@ -16,5 +16,5 @@ echo  "
 sudo rm -rf /usr/bin/calculadora /usr/share/applications/calculadora.desktop /usr/share/calculadora
 sudo rm -rf calculadora.py desinstalador.sh ../calculadora
 "> desinstalador.sh
-
 sudo rm -rf install.sh instruciones.txt
+echo "Instalado exitosamente."
