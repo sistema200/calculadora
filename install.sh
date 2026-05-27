@@ -6,3 +6,6 @@ sudo chmod +x calculadora
 sudo mv calculadora /usr/bin/
 #mover para que sarga en el menus de app intaladas
 sudo mv calculadora.desktop /usr/share/applications
+#
+sudo mkdir -p /usr/share/calculadora
+sudo mv calculadora.png /usr/share/calculadora/
