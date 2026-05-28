@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 ~/calculadora/calculadora.py
+python3 ~/.local/share/calculadora/calculadora.py
