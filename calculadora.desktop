@@ -1,9 +1,8 @@
 [Desktop Entry]
 Type=Application
 Name=Calculadora
-Icon=/usr/share/calculadora/calculadora.png
+Icon=calculadora
 Comment=Calculadora de python
 Exec=/usr/bin/calculadora
-Path=
 Terminal=false
 StartupNotify=false
